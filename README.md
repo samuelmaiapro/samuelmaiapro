@@ -31,7 +31,8 @@ Profissional em transição de carreira, combinando **+10 anos de experiência e
 ## 📫 Conecte-se comigo
 - 📧 **E-mail:** smaia2@gmail.com
 - 📞 **Telefone:** (85) 98409-6353
-- 💼 **LinkedIn:** [Em construção - disponível em breve]
+- 💼 LinkedIn 	linkedin.com/in/samuelmaiapro
+- 🐱 GitHub 	github.com/samuelmaiapro
 - 🏙️ **Localização:** Fortaleza, CE
 
 ## 📊 Estatísticas do GitHub
