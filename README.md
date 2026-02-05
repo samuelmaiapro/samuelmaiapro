@@ -1,5 +1,3 @@
-Vou corrigir os erros de formatação. Aqui está o README.md completo e corrigido:
-
 ```markdown
 # 👨‍💻 Samuel Maia | Analista de Dados & Especialista Cloud AWS
 
