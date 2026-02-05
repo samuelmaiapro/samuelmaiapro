@@ -1,8 +1,8 @@
-# 👋 Olá, eu sou Samuel Maia!
+# 👋 Olá, eu sou Samuel de  Andrade Maia!
 
 ## 🎯 Analista de Dados | Cientista de Dados em Formação
 
-Profissional em transição de carreira, combinando **+10 anos de experiência em gestão** com **habilidades técnicas em análise de dados**.
+Profissional, combinando **+10 anos de experiência em gestão** com **habilidades técnicas em análise de dados**.
 
 ## 🛠️ Tecnologias & Ferramentas
 - **📊 Análise & BI:** Power BI, Excel Avançado, Estatística, EDA
@@ -18,15 +18,15 @@ Profissional em transição de carreira, combinando **+10 anos de experiência e
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📈 Experiência Relevante
-- **Análise de performance** → +15-20% produtividade (J9 Life)
+- **Análise de performance** → +15-20% produtividade (i9 Life)
 - **Automação de processos** → -70% tempo de execução
 - **Gestão de equipes** → 100+ colaboradores
 - **Análise de perfil de clientes** (Banco Santander)
 
 ## 🎓 Formação em Andamento
 - **Ciência de Dados** - Gran Faculdade (2025-2026)
-- **Certificação AWS** - Amazon Web Services (07-2026)
-- **Inovação Digital** - Gran Faculdade (2025-2026)
+- **Certificação AWS** - Amazon Web Services (08-2026)
+- **Inovação e Transformação Digital** - Gran Faculdade (2025-2026)
 
 ## 📫 Conecte-se comigo
 - 📧 **E-mail:** smaia2@gmail.com
