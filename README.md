@@ -171,11 +171,37 @@ Certificações
 
     SQL para Data Science | Coursera (2025)
 
-📈 Estatísticas do GitHub
+## 📈 Estatísticas do GitHub
 
-https://github-readme-stats.vercel.app/api?username=samuelmaiapro&show_icons=true&theme=dark
+<div align="center">
+  
+  <!-- Estatísticas Gerais -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuelmaiapro&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Samuel's GitHub stats" />
+  
+  <!-- Linguagens Mais Usadas -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelmaiapro&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" />
+  
+</div>
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=samuelmaiapro&layout=compact&theme=dark
+<div align="center">
+  
+  <!-- Sequência de Contribuições -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samuelmaiapro&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  
+</div>
+
+<div align="center">
+  
+  <!-- Contadores -->
+  <img src="https://komarev.com/ghpvc/?username=samuelmaiapro&color=blueviolet&style=flat-square" alt="Visualizações do perfil" />
+  
+  <a href="https://github.com/samuelmaiapro?tab=followers">
+    <img src="https://img.shields.io/github/followers/samuelmaiapro?label=Seguidores&style=flat-square&color=green" alt="GitHub followers" />
+  </a>
+  
+  <img src="https://img.shields.io/github/stars/samuelmaiapro?label=Estrelas&style=flat-square&color=yellow" alt="Total Stars" />
+  
+</div>
 
 🌐 Idiomas
 
@@ -199,9 +225,10 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=samuelmaiapro&lay
 
 📫 Vamos Conectar?
 
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuelmaiapro)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samuelmaiapro)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smaia2@gmail.com)
+
 
 ⭐ "Dados não são apenas números; são histórias esperando para serem contadas e problemas esperando para serem resolvidos."
 
