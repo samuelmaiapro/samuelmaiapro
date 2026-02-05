@@ -1,4 +1,3 @@
-```markdown
 # 👨‍💻 Samuel Maia | Analista de Dados & Especialista Cloud AWS
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -66,114 +65,143 @@ class AnalisadorVendas:
         }
         return relatorio
 ```
-
-**📁 Estrutura do Projeto:**
+📁 Estrutura do Projeto:
 ```
 analise-vendas-python/
-├── 📊 data/               # Arquivos de dados
-├── 📁 notebooks/          # Jupyter notebooks
-├── 📁 src/               # Código fonte Python
-├── 📁 outputs/           # Resultados e gráficos
-└── 📄 README.md          # Documentação
+├── data/              # Arquivos de dados
+├── notebooks/         # Jupyter notebooks
+├── src/               # Código fonte Python
+├── outputs/           # Resultados e gráficos
+└── README.md          # Documentação
 ```
+🔗 [Acesse o projeto completo aqui](https://github.com/samuelmaiapro/analise-vendas-python)
 
-🔗 **[Acesse o projeto completo aqui](https://github.com/samuelmaiapro/analise-vendas-python)**
+🛠️ Habilidades Técnicas
+Cloud Computing & Infraestrutura
 
----
+    AWS: EC2, S3, Lambda, RDS, CloudFormation
 
-## 🛠️ Habilidades Técnicas
+    Linux: Administração de servidores, shell scripting
 
-### **Cloud Computing & Infraestrutura**
-- **AWS:** EC2, S3, Lambda, RDS, CloudFormation
-- **Linux:** Administração de servidores, shell scripting
-- **Segurança:** OPNsense, Zabbix, configuração de firewalls
-- **Controle de Versão:** Git, Subversion
+    Segurança: OPNsense, Zabbix, configuração de firewalls
 
-### **Análise de Dados & BI**
-- **Power BI:** Dashboards interativos, DAX, Power Query
-- **Excel Avançado:** VBA, Power Pivot, fórmulas complexas
-- **Visualização:** Matplotlib, Seaborn, Plotly
-- **Estatística:** Estatística descritiva e preditiva
+    Controle de Versão: Git, Subversion
 
-### **Programação & Automação**
-- **Python:** Pandas, NumPy, Scikit-learn, automação
-- **SQL:** Consultas avançadas, otimização, stored procedures
-- **Web:** PHP, Ruby, Apache configuration
-- **ETL/ELT:** Pipeline de dados, transformações
+Análise de Dados & BI
 
-### **Bancos de Dados**
-- **Relacionais:** MySQL, MariaDB, Informix
-- **Conceitos:** Normalização, indexação, transações
+    Power BI: Dashboards interativos, DAX, Power Query
 
-### **Metodologias**
-- **Ágil:** Scrum, Kanban, sprints
-- **Design Thinking:** Solução criativa de problemas
-- **RPA:** Automação de processos repetitivos
+    Excel Avançado: VBA, Power Pivot, fórmulas complexas
 
-## 💼 Experiência Profissional
+    Visualização: Matplotlib, Seaborn, Plotly
 
-### **Analista de Dados** | ¡9 Life (Jun 2015 - Jan 2019)
-- Liderança de equipe com **100+ consultores** comerciais
-- Implementação de sistema de metas baseado em análise de dados
-- **Aumento de 15-20% na produtividade** através de dashboards
-- Expansão da base de clientes com análise de mercado
+    Estatística: Estatística descritiva e preditiva
 
-### **Supervisor de TI** | Instituto de Tecnologia José Rocha (Mai 2007 - Mai 2009)
-- Administração de infraestrutura Linux com **Apache**
-- Gerenciamento de bancos de dados **MySQL/Informix**
-- **Automação de 70% das rotinas** com scripts PHP/Ruby
-- Implementação de soluções de segurança e monitoramento
+Programação & Automação
 
-### **Assistente de Atendimento** | Banco Santander (Set 2009 - Abr 2013)
-- Análise de perfil de clientes pessoa física e jurídica
-- Cruzamento de dados para propostas personalizadas
-- Reconhecimento por excelência no atendimento ao cliente
+    Python: Pandas, NumPy, Scikit-learn, automação
 
-## 🎓 Formação & Certificações
+    SQL: Consultas avançadas, otimização, stored procedures
 
-### **Formação Acadêmica**
-- **Ciência de Dados** | Gran Faculdade (Cursando - 2026)
-- **AWS Cloud Practitioner/Solutions Architect** | Escola da Nuvem (Cursando - 2026)
-- **Inovação e Transformação Digital** | Gran Faculdade (Cursando - 2026)
-- **Administração de Empresas** | FACULDADE FAEL (Concluído - 2024)
+    Web: PHP, Ruby, Apache configuration
 
-### **Certificações**
-- **AWS Certified Cloud Practitioner** (Em processo - 2026)
-- **Power BI – Do Básico ao Profissional** | Udemy (2025)
-- **Python para Análise de Dados** | Udemy (2025)
-- **SQL para Data Science** | Coursera (2025)
+    ETL/ELT: Pipeline de dados, transformações
 
-## 📈 Estatísticas do GitHub
+Bancos de Dados
 
-![Samuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samuelmaiapro&show_icons=true&theme=dark)
+    Relacionais: MySQL, MariaDB, Informix
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelmaiapro&layout=compact&theme=dark)
+    Conceitos: Normalização, indexação, transações
 
-## 🌐 Idiomas
+Metodologias
 
-- **Português:** Nativo
-- **Inglês:** B2 (Intermediário) - Técnico e comunicação
-- **Espanhol:** B1 (Pré-Intermediário)
+    Ágil: Scrum, Kanban, sprints
 
-## 🏆 Competências
+    Design Thinking: Solução criativa de problemas
 
-- **Pensamento Analítico:** Transformação de dados em insights
-- **Resolução de Problemas:** Abordagem estruturada e criativa
-- **Comunicação:** Técnica e interpessoal eficaz
-- **Liderança:** Gestão de equipes multidisciplinares
-- **Adaptabilidade:** Aprendizado contínuo em novas tecnologias
+    RPA: Automação de processos repetitivos
 
----
+💼 Experiência Profissional
+Analista de Dados | ¡9 Life (Jun 2015 - Jan 2019)
 
-## 📫 Vamos Conectar?
+    Liderança de equipe com 100+ consultores comerciais
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuelmaiapro)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samuelmaiapro)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smaia2@gmail.com)
+    Implementação de sistema de metas baseado em análise de dados
 
----
+    Aumento de 15-20% na produtividade através de dashboards
 
-⭐ *"Dados não são apenas números; são histórias esperando para serem contadas e problemas esperando para serem resolvidos."*
+    Expansão da base de clientes com análise de mercado
 
-🔗 **Visite meus projetos para ver essas histórias em ação!**
-```
+Supervisor de TI | Instituto de Tecnologia José Rocha (Mai 2007 - Mai 2009)
+
+    Administração de infraestrutura Linux com Apache
+
+    Gerenciamento de bancos de dados MySQL/Informix
+
+    Automação de 70% das rotinas com scripts PHP/Ruby
+
+    Implementação de soluções de segurança e monitoramento
+
+Assistente de Atendimento | Banco Santander (Set 2009 - Abr 2013)
+
+    Análise de perfil de clientes pessoa física e jurídica
+
+    Cruzamento de dados para propostas personalizadas
+
+    Reconhecimento por excelência no atendimento ao cliente
+
+🎓 Formação & Certificações
+Formação Acadêmica
+
+    Ciência de Dados | Gran Faculdade (Cursando - 2026)
+
+    AWS Cloud Practitioner/Solutions Architect | Escola da Nuvem (Cursando - 2026)
+
+    Inovação e Transformação Digital | Gran Faculdade (Cursando - 2026)
+
+    Administração de Empresas | FACULDADE FAEL (Concluído - 2024)
+
+Certificações
+
+    AWS Certified Cloud Practitioner (Em processo - 2026)
+
+    Power BI – Do Básico ao Profissional | Udemy (2025)
+
+    Python para Análise de Dados | Udemy (2025)
+
+    SQL para Data Science | Coursera (2025)
+
+📈 Estatísticas do GitHub
+
+https://github-readme-stats.vercel.app/api?username=samuelmaiapro&show_icons=true&theme=dark
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=samuelmaiapro&layout=compact&theme=dark
+🌐 Idiomas
+
+    Português: Nativo
+
+    Inglês: B2 (Intermediário) - Técnico e comunicação
+
+    Espanhol: B1 (Pré-Intermediário)
+
+🏆 Competências
+
+    Pensamento Analítico: Transformação de dados em insights
+
+    Resolução de Problemas: Abordagem estruturada e criativa
+
+    Comunicação: Técnica e interpessoal eficaz
+
+    Liderança: Gestão de equipes multidisciplinares
+
+    Adaptabilidade: Aprendizado contínuo em novas tecnologias
+
+📫 Vamos Conectar?
+
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+
+⭐ "Dados não são apenas números; são histórias esperando para serem contadas e problemas esperando para serem resolvidos."
+
+🔗 Visite meus projetos para ver essas histórias em ação!
