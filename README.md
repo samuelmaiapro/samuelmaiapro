@@ -83,7 +83,7 @@ Cloud Computing & Infraestrutura
 
     Linux: Administração de servidores, shell scripting
 
-    Segurança: OPNsense, Zabbix, configuração de firewalls
+    Segurança: OPNsense,Pfsense Zabbix, configuração de firewalls
 
     Controle de Versão: Git, Subversion
 
