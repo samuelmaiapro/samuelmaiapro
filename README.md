@@ -176,6 +176,7 @@ Certificações
 https://github-readme-stats.vercel.app/api?username=samuelmaiapro&show_icons=true&theme=dark
 
 https://github-readme-stats.vercel.app/api/top-langs/?username=samuelmaiapro&layout=compact&theme=dark
+
 🌐 Idiomas
 
     Português: Nativo
