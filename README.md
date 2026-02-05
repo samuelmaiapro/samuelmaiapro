@@ -1,221 +1,181 @@
-# Samuel Maia | Analista de Dados & Cientista de Dados em Formação
+Vou corrigir os erros de formatação. Aqui está o README.md completo e corrigido:
 
-<div align="center">
+```markdown
+# 👨‍💻 Samuel Maia | Analista de Dados & Especialista Cloud AWS
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-📧 smaia2@gmail.com | 📞 (85) 98409-6353 | 📍 Fortaleza, CE  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuelmaiapro)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/samuelmaiapro)
+## 📌 Sobre Mim
 
-*PcD - Pessoa com Deficiência (hemiparesia direita) - sem necessidade de adaptações*
+Analista de Dados com formação em **Ciência de Dados** e especialização em **Cloud Computing AWS**. Tenho experiência em análise de dados, ETL, desenvolvimento de dashboards Power BI, queries SQL, automação com Python e implementação de soluções AWS. Sou apaixonado por transformar dados complexos em insights estratégicos para tomada de decisão.
 
-</div>
-
----
-
-## 📊 Resumo Profissional
-
-**Analista de Dados** com mais de 10 anos de experiência em gestão combinados com habilidades técnicas em análise de dados. Atualmente especializando-se em **Ciência de Dados** e **Cloud Computing AWS**. Capacidade comprovada de transformar dados brutos em insights acionáveis e decisões estratégicas.
-
-```python
-# Meu Perfil de Dados
-perfil = {
-    "cargo": "Analista de Dados & Cientista de Dados em Formação",
-    "experiencia": "10+ anos em gestão + análise de dados",
-    "especializacao": ["Ciência de Dados", "AWS Cloud", "Business Intelligence"],
-    "conquistas": [
-        "Aumento de 15-20% na produtividade através de análise de dados",
-        "Redução de 70% no tempo de processo via automação com Python",
-        "Gestão de equipes com 100+ profissionais",
-        "Certificação AWS Cloud Practitioner em andamento"
-    ]
-}
-```
-
----
-
-## 🛠️ Stack Tecnológico
-
-```python
-stack_tecnologico = {
-    "programacao": ["Python", "SQL", "R (Básico)"],
-    "bibliotecas_python": ["Pandas", "NumPy", "Matplotlib", "Seaborn"],
-    "ferramentas_bi": ["Power BI", "Excel Avançado", "Power Query", "DAX"],
-    "bancos_dados": ["MySQL", "MariaDB", "PostgreSQL"],
-    "cloud": ["AWS (EC2, S3, RDS)", "Linux", "Apache"],
-    "ferramentas": ["Git", "Jupyter", "VS Code", "Docker"]
-}
-```
-
----
-
-## 📈 Estatísticas do GitHub
-
-<div align="center">
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=samuelmaiapro&show_icons=true&theme=radical&hide_border=true)
-
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelmaiapro&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
----
+**📍 Localização:** Fortaleza, CE  
+**📧 E-mail:** smaia2@gmail.com  
+**📱 Telefone:** (85) 98409-6353  
+**🔗 LinkedIn:** [linkedin.com/in/samuelmaiapro](https://linkedin.com/in/samuelmaiapro)  
+**🎯 PcD:** Hemiparesia direita - sem necessidade de adaptações
 
 ## 🚀 Projetos em Destaque
 
-### **1. Dashboard de Performance de Vendas**
-*Python, Power BI, SQL, Pandas*
+### 📈 [Análise de Vendas com Python](https://github.com/samuelmaiapro/analise-vendas-python)
 
+**Objetivo:** Sistema completo de análise de dados de vendas para identificar tendências, métricas de performance e insights estratégicos.
+
+**Tecnologias:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
+**Principais Funcionalidades:**
+- 📊 Análise exploratória de dados (EDA)
+- 📈 Visualização de tendências de vendas
+- 🔍 Identificação de produtos mais lucrativos
+- 📅 Análise temporal e sazonalidade
+- 🎯 Cálculo de KPIs de performance
+
+**Exemplo de Código:**
 ```python
-# Funcionalidades do Projeto
-funcionalidades = {
-    "tecnologias": ["Python", "Pandas", "Power BI", "MySQL"],
-    "descricao": "Dashboard interativo para monitoramento de vendas em tempo real",
-    "impacto": "25% mais rápido no processo de tomada de decisão",
-    "metricas": ["Acompanhamento de receita", "Segmentação de clientes", "Visualização de KPIs"]
-}
+import pandas as pd
+import matplotlib.pyplot as plt
+
+class AnalisadorVendas:
+    def __init__(self, caminho_dados):
+        self.df = pd.read_csv(caminho_dados)
+        self.df['data'] = pd.to_datetime(self.df['data'])
+    
+    def analise_mensal(self):
+        """Analisa vendas por mês"""
+        df_mensal = self.df.groupby(self.df['data'].dt.to_period('M')).agg({
+            'valor': 'sum',
+            'quantidade': 'sum',
+            'cliente_id': 'nunique'
+        })
+        return df_mensal
+    
+    def gerar_relatorio(self):
+        """Gera relatório completo de vendas"""
+        relatorio = {
+            'total_vendas': self.df['valor'].sum(),
+            'media_diaria': self.df.groupby('data')['valor'].mean().mean(),
+            'produto_mais_vendido': self.df['produto'].mode()[0],
+            'crescimento_mensal': self.calcular_crescimento()
+        }
+        return relatorio
 ```
 
-### **2. Suite de Automação de Processos**
-*Python, Selenium, Pandas, SQL*
-
-```python
-# Ferramentas de Automação
-ferramentas = {
-    "coleta_dados": "Web scraping com Selenium & BeautifulSoup",
-    "processamento_dados": "Pipelines ETL com Pandas",
-    "relatorios": "Geração automática de relatórios Excel & PDF",
-    "tempo_economizado": "20+ horas semanais"
-}
+**📁 Estrutura do Projeto:**
 ```
+analise-vendas-python/
+├── 📊 data/               # Arquivos de dados
+├── 📁 notebooks/          # Jupyter notebooks
+├── 📁 src/               # Código fonte Python
+├── 📁 outputs/           # Resultados e gráficos
+└── 📄 README.md          # Documentação
+```
+
+🔗 **[Acesse o projeto completo aqui](https://github.com/samuelmaiapro/analise-vendas-python)**
 
 ---
+
+## 🛠️ Habilidades Técnicas
+
+### **Cloud Computing & Infraestrutura**
+- **AWS:** EC2, S3, Lambda, RDS, CloudFormation
+- **Linux:** Administração de servidores, shell scripting
+- **Segurança:** OPNsense, Zabbix, configuração de firewalls
+- **Controle de Versão:** Git, Subversion
+
+### **Análise de Dados & BI**
+- **Power BI:** Dashboards interativos, DAX, Power Query
+- **Excel Avançado:** VBA, Power Pivot, fórmulas complexas
+- **Visualização:** Matplotlib, Seaborn, Plotly
+- **Estatística:** Estatística descritiva e preditiva
+
+### **Programação & Automação**
+- **Python:** Pandas, NumPy, Scikit-learn, automação
+- **SQL:** Consultas avançadas, otimização, stored procedures
+- **Web:** PHP, Ruby, Apache configuration
+- **ETL/ELT:** Pipeline de dados, transformações
+
+### **Bancos de Dados**
+- **Relacionais:** MySQL, MariaDB, Informix
+- **Conceitos:** Normalização, indexação, transações
+
+### **Metodologias**
+- **Ágil:** Scrum, Kanban, sprints
+- **Design Thinking:** Solução criativa de problemas
+- **RPA:** Automação de processos repetitivos
 
 ## 💼 Experiência Profissional
 
-### **Analista de Dados** @ ¡9 Life
-*Jun 2015 - Jan 2019 | Picos, PI*
+### **Analista de Dados** | ¡9 Life (Jun 2015 - Jan 2019)
+- Liderança de equipe com **100+ consultores** comerciais
+- Implementação de sistema de metas baseado em análise de dados
+- **Aumento de 15-20% na produtividade** através de dashboards
+- Expansão da base de clientes com análise de mercado
 
-```python
-conquistas = [
-    "Liderou estratégia baseada em dados para equipe de 100+ consultores",
-    "Implementou sistema de tracking de performance aumentando produtividade em 15-20%",
-    "Desenvolveu análises de clientes para expansão da base",
-    "Conduziu workshops e treinamentos em alfabetização de dados"
-]
-```
+### **Supervisor de TI** | Instituto de Tecnologia José Rocha (Mai 2007 - Mai 2009)
+- Administração de infraestrutura Linux com **Apache**
+- Gerenciamento de bancos de dados **MySQL/Informix**
+- **Automação de 70% das rotinas** com scripts PHP/Ruby
+- Implementação de soluções de segurança e monitoramento
 
-### **Assistente de Atendimento PF e PJ** @ Banco Santander
-*Set 2009 - Abr 2013 | Manaus, AM*
+### **Assistente de Atendimento** | Banco Santander (Set 2009 - Abr 2013)
+- Análise de perfil de clientes pessoa física e jurídica
+- Cruzamento de dados para propostas personalizadas
+- Reconhecimento por excelência no atendimento ao cliente
 
-```python
-responsabilidades = [
-    "Analisou perfis de clientes para soluções financeiras personalizadas",
-    "Cruzou dados para identificar oportunidades de crescimento",
-    "Contribuiu para retenção e expansão da carteira de clientes",
-    "Reconhecido por excelência no atendimento (avaliações SAC)"
-]
-```
+## 🎓 Formação & Certificações
 
----
+### **Formação Acadêmica**
+- **Ciência de Dados** | Gran Faculdade (Cursando - 2026)
+- **AWS Cloud Practitioner/Solutions Architect** | Escola da Nuvem (Cursando - 2026)
+- **Inovação e Transformação Digital** | Gran Faculdade (Cursando - 2026)
+- **Administração de Empresas** | FACULDADE FAEL (Concluído - 2024)
 
-## 🎓 Educação & Certificações
+### **Certificações**
+- **AWS Certified Cloud Practitioner** (Em processo - 2026)
+- **Power BI – Do Básico ao Profissional** | Udemy (2025)
+- **Python para Análise de Dados** | Udemy (2025)
+- **SQL para Data Science** | Coursera (2025)
 
-### **Estudos em Andamento**
+## 📈 Estatísticas do GitHub
 
-```python
-educacao_atual = [
-    {
-        "curso": "Ciência de Dados",
-        "instituicao": "Gran Faculdade",
-        "periodo": "2025-2026",
-        "status": "🎯 Em Andamento",
-        "foco": ["Python", "Machine Learning", "Estatística", "Power BI"]
-    },
-    {
-        "certificacao": "AWS Cloud Practitioner",
-        "instituicao": "Escola da Nuvem",
-        "periodo": "2026",
-        "status": "🚀 Em Andamento",
-        "foco": ["Cloud Computing", "Arquitetura AWS", "DevOps"]
-    }
-]
-```
+![Samuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samuelmaiapro&show_icons=true&theme=dark)
 
-### **Certificações Recentes**
-```python
-certificacoes = [
-    {"nome": "Power BI Profissional", "plataforma": "Udemy", "horas": 40, "ano": 2025},
-    {"nome": "Python para Análise de Dados", "plataforma": "Udemy", "horas": 60, "ano": 2025},
-    {"nome": "SQL para Data Science", "plataforma": "Coursera", "horas": 30, "ano": 2025}
-]
-```
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelmaiapro&layout=compact&theme=dark)
+
+## 🌐 Idiomas
+
+- **Português:** Nativo
+- **Inglês:** B2 (Intermediário) - Técnico e comunicação
+- **Espanhol:** B1 (Pré-Intermediário)
+
+## 🏆 Competências
+
+- **Pensamento Analítico:** Transformação de dados em insights
+- **Resolução de Problemas:** Abordagem estruturada e criativa
+- **Comunicação:** Técnica e interpessoal eficaz
+- **Liderança:** Gestão de equipes multidisciplinares
+- **Adaptabilidade:** Aprendizado contínuo em novas tecnologias
 
 ---
 
-## 💻 Exemplo de Código
+## 📫 Vamos Conectar?
 
-```python
-"""
-Análise de Dados Profissional
-Autor: Samuel Maia
-"""
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuelmaiapro)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samuelmaiapro)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smaia2@gmail.com)
 
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
+---
 
-class AnalisadorDados:
-    def __init__(self, arquivo_dados):
-        self.arquivo = arquivo_dados
-        self.dados = None
-    
-    def carregar_dados(self):
-        """Carrega e prepara os dados"""
-        self.dados = pd.read_csv(self.arquivo)
-        print(f"Dados carregados: {self.dados.shape}")
-        return self.dados
-    
-    def analisar(self):
-        """Realiza análise básica"""
-        if self.dados is not None:
-            print("Resumo estatístico:")
-            print(self.dados.describe())
-            print("\nInformações do dataset:")
-            print(self.dados.info())
+⭐ *"Dados não são apenas números; são histórias esperando para serem contadas e problemas esperando para serem resolvidos."*
 
-# Exemplo de uso
-if __name__ == "__main__":
-    analisador = AnalisadorDados("dados.csv")
-    analisador.carregar_dados()
-    analisador.analisar()
+🔗 **Visite meus projetos para ver essas histórias em ação!**
 ```
-
----
-
-## 📞 Conecte-se Comigo
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-smaia2@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smaia2@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuelmaiapro)
-[![GitHub](https://img.shields.io/badge/GitHub-Ver_Projetos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samuelmaiapro)
-
-</div>
-
----
-
-<div align="center">
-
-## 🚀 Transformando Dados em Decisões Estratégicas
-
-![Rodapé](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&text=Samuel+Maia)
-
-*Última atualização: Janeiro 2024*
-
-</div>
