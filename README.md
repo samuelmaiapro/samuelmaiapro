@@ -216,17 +216,56 @@ Certificações
 
     Espanhol: B1 (Pré-Intermediário)
 
-🏆 Competências
+   
+💪 Competências & Habilidades Profissionais
 
-    Pensamento Analítico: Transformação de dados em insights
+## 🔍 Pensamento Analítico & Técnico
+- **Análise de Dados Estratégica**: Transformação de dados complexos em insights acionáveis
+- **Diagnóstico de Problemas**: Identificação de padrões e oportunidades com abordagem analítica
+- **Raciocínio Quantitativo**: Aplicação de estatística em cenários empresariais
+- **Storytelling com Dados**: Comunicação técnica para públicos não-técnicos
 
-    Resolução de Problemas: Abordagem estruturada e criativa
+## 🤝 Colaboração & Trabalho em Equipe
+- **Sinergia Multidisciplinar**: Integração com equipes de negócio, TI e stakeholders
+- **Metodologias Ágeis**: Experiência em Scrum e Kanban
+- **Compartilhamento de Conhecimento**: Mentoria e documentação de processos
+- **Resolução de Conflitos**: Mediação construtiva com foco em soluções
 
-    Comunicação: Técnica e interpessoal eficaz
+## 🎯 Resolução de Problemas Complexos
+- **Abordagem Estruturada**: Aplicação de frameworks como 5 Porquês e PDCA
+- **Pensamento Crítico**: Avaliação de múltiplas perspectivas
+- **Criatividade Aplicada**: Soluções inovadoras para desafios técnicos
+- **Gestão de Riscos**: Identificação proativa de obstáculos
 
-    Liderança: Gestão de equipes multidisciplinares
+## 💬 Comunicação & Influência
+- **Comunicação Técnica**: Tradução de conceitos complexos para linguagem acessível
+- **Apresentação Executiva**: Dashboards e relatórios para decisores estratégicos
+- **Documentação Clara**: Manuais e tutoriais compreensíveis
+- **Escrita Profissional**: Emails, propostas e relatórios com precisão
 
-    Adaptabilidade: Aprendizado contínuo em novas tecnologias
+## 👨‍💼 Liderança & Gestão
+- **Gestão de Equipes Multidisciplinares**: Coordenação de diferentes backgrounds
+- **Delegação Efetiva**: Distribuição de tarefas conforme competências
+- **Mentoria & Desenvolvimento**: Capacitação de talentos
+- **Gestão de Projetos**: Planejamento e monitoramento de iniciativas
+
+## 🔄 Adaptabilidade & Aprendizado Contínuo
+- **Agilidade Tecnológica**: Rápida assimilação de novas ferramentas
+- **Mindset de Crescimento**: Busca constante por atualização
+- **Resiliência a Mudanças**: Adaptação a novos contextos
+- **Autoaprendizagem**: Proatividade no estudo de tecnologias
+
+🏆 Diferenciais Competitivos
+
+| Competência | Nível | Aplicação Prática |
+|------------|-------|-------------------|
+| **Análise de Dados** | ⭐⭐⭐⭐⭐ | Aumento de 15-20% em produtividade |
+| **Liderança** | ⭐⭐⭐⭐ | Gestão de equipe com 100+ consultores |
+| **Resolução de Problemas** | ⭐⭐⭐⭐⭐ | Automação de 70% das rotinas |
+| **Comunicação** | ⭐⭐⭐⭐ | Interface entre áreas técnicas e de negócio |
+| **Adaptabilidade** | ⭐⭐⭐⭐⭐ | Transição para Cloud Computing AWS |
+
+"Competências são como músculos: desenvolvem-se com prática consistente e desafios progressivos."
 
 📫 Vamos Conectar?
 
