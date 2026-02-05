@@ -37,15 +37,17 @@ Analista de Dados com formação em **Ciência de Dados** e especialização em 
 - 🎯 Cálculo de KPIs de performance
 
 **Exemplo de Código:**
+
 ```python
 import pandas as pd
 import matplotlib.pyplot as plt
+
 
 class AnalisadorVendas:
     def __init__(self, caminho_dados):
         self.df = pd.read_csv(caminho_dados)
         self.df['data'] = pd.to_datetime(self.df['data'])
-    
+
     def analise_mensal(self):
         """Analisa vendas por mês"""
         df_mensal = self.df.groupby(self.df['data'].dt.to_period('M')).agg({
@@ -54,7 +56,7 @@ class AnalisadorVendas:
             'cliente_id': 'nunique'
         })
         return df_mensal
-    
+
     def gerar_relatorio(self):
         """Gera relatório completo de vendas"""
         relatorio = {
@@ -64,6 +66,9 @@ class AnalisadorVendas:
             'crescimento_mensal': self.calcular_crescimento()
         }
         return relatorio
+
+    def calcular_crescimento(self):
+        pass
 ```
 📁 Estrutura do Projeto:
 ```
