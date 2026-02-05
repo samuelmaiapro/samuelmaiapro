@@ -42,7 +42,6 @@ Analista de Dados com formação em **Ciência de Dados** e especialização em 
 import pandas as pd
 import matplotlib.pyplot as plt
 
-
 class AnalisadorVendas:
     def __init__(self, caminho_dados):
         self.df = pd.read_csv(caminho_dados)
@@ -70,7 +69,8 @@ class AnalisadorVendas:
     def calcular_crescimento(self):
         pass
 ```
-📁 Estrutura do Projeto:
+
+📁 **Estrutura do Projeto:**
 ```
 analise-vendas-python/
 ├── data/              # Arquivos de dados
@@ -79,183 +79,134 @@ analise-vendas-python/
 ├── outputs/           # Resultados e gráficos
 └── README.md          # Documentação
 ```
-🔗 [Acesse o projeto completo aqui](https://github.com/samuelmaiapro/analise-vendas-python)
 
-🛠️ Habilidades Técnicas
-Cloud Computing & Infraestrutura
+🔗 **[Acesse o projeto completo aqui](https://github.com/samuelmaiapro/analise-vendas-python)**
 
-    AWS: EC2, S3, Lambda, RDS, CloudFormation
+## 🛠️ Habilidades Técnicas
 
-    Linux: Administração de servidores, shell scripting
+### ☁️ Cloud Computing & Infraestrutura
+- **AWS**: EC2, S3, Lambda, RDS, CloudFormation
+- **Linux**: Administração de servidores, shell scripting
+- **Segurança**: OPNsense, Pfsense, Zabbix, configuração de firewalls
+- **Controle de Versão**: Git, Subversion
 
-    Segurança: OPNsense,Pfsense Zabbix, configuração de firewalls
+### 📊 Análise de Dados & BI
+- **Power BI**: Dashboards interativos, DAX, Power Query
+- **Excel Avançado**: VBA, Power Pivot, fórmulas complexas
+- **Visualização**: Matplotlib, Seaborn, Plotly
+- **Estatística**: Estatística descritiva e preditiva
 
-    Controle de Versão: Git, Subversion
+### 💻 Programação & Automação
+- **Python**: Pandas, NumPy, Scikit-learn, automação
+- **SQL**: Consultas avançadas, otimização, stored procedures
+- **Web**: PHP, Ruby, Apache configuration
+- **ETL/ELT**: Pipeline de dados, transformações
 
-Análise de Dados & BI
+### 🗄️ Bancos de Dados
+- **Relacionais**: MySQL, MariaDB, Informix
+- **Conceitos**: Normalização, indexação, transações
 
-    Power BI: Dashboards interativos, DAX, Power Query
+### 📋 Metodologias
+- **Ágil**: Scrum, Kanban, sprints
+- **Design Thinking**: Solução criativa de problemas
+- **RPA**: Automação de processos repetitivos
 
-    Excel Avançado: VBA, Power Pivot, fórmulas complexas
+## 💼 Experiência Profissional
 
-    Visualização: Matplotlib, Seaborn, Plotly
+### 📊 Analista de Dados | ¡9 Life (Jun 2015 - Jan 2019)
+- Liderança de equipe com 100+ consultores comerciais
+- Implementação de sistema de metas baseado em análise de dados
+- Aumento de 15-20% na produtividade através de dashboards
+- Expansão da base de clientes com análise de mercado
 
-    Estatística: Estatística descritiva e preditiva
+### 🔧 Supervisor de TI | Instituto de Tecnologia José Rocha (Mai 2007 - Mai 2009)
+- Administração de infraestrutura Linux com Apache
+- Gerenciamento de bancos de dados MySQL/Informix
+- Automação de 70% das rotinas com scripts PHP/Ruby
+- Implementação de soluções de segurança e monitoramento
 
-Programação & Automação
+### 🏦 Assistente de Atendimento | Banco Santander (Set 2009 - Abr 2013)
+- Análise de perfil de clientes pessoa física e jurídica
+- Cruzamento de dados para propostas personalizadas
+- Reconhecimento por excelência no atendimento ao cliente
 
-    Python: Pandas, NumPy, Scikit-learn, automação
+## 🎓 Formação & Certificações
 
-    SQL: Consultas avançadas, otimização, stored procedures
+### 🏫 Formação Acadêmica
+- **Ciência de Dados** | Gran Faculdade (Cursando - 2026)
+- **AWS Cloud Practitioner/Solutions Architect** | Escola da Nuvem (Cursando - 2026)
+- **Inovação e Transformação Digital** | Gran Faculdade (Cursando - 2026)
+- **Administração de Empresas** | FACULDADE FAEL (Concluído - 2024)
 
-    Web: PHP, Ruby, Apache configuration
-
-    ETL/ELT: Pipeline de dados, transformações
-
-Bancos de Dados
-
-    Relacionais: MySQL, MariaDB, Informix
-
-    Conceitos: Normalização, indexação, transações
-
-Metodologias
-
-    Ágil: Scrum, Kanban, sprints
-
-    Design Thinking: Solução criativa de problemas
-
-    RPA: Automação de processos repetitivos
-
-💼 Experiência Profissional
-Analista de Dados | ¡9 Life (Jun 2015 - Jan 2019)
-
-    Liderança de equipe com 100+ consultores comerciais
-
-    Implementação de sistema de metas baseado em análise de dados
-
-    Aumento de 15-20% na produtividade através de dashboards
-
-    Expansão da base de clientes com análise de mercado
-
-Supervisor de TI | Instituto de Tecnologia José Rocha (Mai 2007 - Mai 2009)
-
-    Administração de infraestrutura Linux com Apache
-
-    Gerenciamento de bancos de dados MySQL/Informix
-
-    Automação de 70% das rotinas com scripts PHP/Ruby
-
-    Implementação de soluções de segurança e monitoramento
-
-Assistente de Atendimento | Banco Santander (Set 2009 - Abr 2013)
-
-    Análise de perfil de clientes pessoa física e jurídica
-
-    Cruzamento de dados para propostas personalizadas
-
-    Reconhecimento por excelência no atendimento ao cliente
-
-🎓 Formação & Certificações
-Formação Acadêmica
-
-    Ciência de Dados | Gran Faculdade (Cursando - 2026)
-
-    AWS Cloud Practitioner/Solutions Architect | Escola da Nuvem (Cursando - 2026)
-
-    Inovação e Transformação Digital | Gran Faculdade (Cursando - 2026)
-
-    Administração de Empresas | FACULDADE FAEL (Concluído - 2024)
-
-Certificações
-
-    AWS Certified Cloud Practitioner (Em processo - 2026)
-
-    Power BI – Do Básico ao Profissional | Udemy (2025)
-
-    Python para Análise de Dados | Udemy (2025)
-
-    SQL para Data Science | Coursera (2025)
+### 📜 Certificações
+- **AWS Certified Cloud Practitioner** (Em processo - 2026)
+- **Power BI – Do Básico ao Profissional** | Udemy (2025)
+- **Python para Análise de Dados** | Udemy (2025)
+- **SQL para Data Science** | Coursera (2025)
 
 ## 📈 Estatísticas do GitHub
 
 <div align="center">
-  
-  <!-- Estatísticas Gerais -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuelmaiapro&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Samuel's GitHub stats" />
-  
-  <!-- Linguagens Mais Usadas -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelmaiapro&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" />
-  
 </div>
 
 <div align="center">
-  
-  <!-- Sequência de Contribuições -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=samuelmaiapro&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-  
 </div>
 
 <div align="center">
-  
-  <!-- Contadores -->
   <img src="https://komarev.com/ghpvc/?username=samuelmaiapro&color=blueviolet&style=flat-square" alt="Visualizações do perfil" />
-  
   <a href="https://github.com/samuelmaiapro?tab=followers">
     <img src="https://img.shields.io/github/followers/samuelmaiapro?label=Seguidores&style=flat-square&color=green" alt="GitHub followers" />
   </a>
-  
   <img src="https://img.shields.io/github/stars/samuelmaiapro?label=Estrelas&style=flat-square&color=yellow" alt="Total Stars" />
-  
 </div>
 
-🌐 Idiomas
+## 🌐 Idiomas
+- **Português**: Nativo
+- **Inglês**: B2 (Intermediário) - Técnico e comunicação
+- **Espanhol**: B1 (Pré-Intermediário)
 
-    Português: Nativo
+## 💪 Competências & Habilidades Profissionais
 
-    Inglês: B2 (Intermediário) - Técnico e comunicação
-
-    Espanhol: B1 (Pré-Intermediário)
-
-   
-💪 Competências & Habilidades Profissionais
-
-## 🔍 Pensamento Analítico & Técnico
+### 🔍 Pensamento Analítico & Técnico
 - **Análise de Dados Estratégica**: Transformação de dados complexos em insights acionáveis
 - **Diagnóstico de Problemas**: Identificação de padrões e oportunidades com abordagem analítica
 - **Raciocínio Quantitativo**: Aplicação de estatística em cenários empresariais
 - **Storytelling com Dados**: Comunicação técnica para públicos não-técnicos
 
-## 🤝 Colaboração & Trabalho em Equipe
+### 🤝 Colaboração & Trabalho em Equipe
 - **Sinergia Multidisciplinar**: Integração com equipes de negócio, TI e stakeholders
 - **Metodologias Ágeis**: Experiência em Scrum e Kanban
 - **Compartilhamento de Conhecimento**: Mentoria e documentação de processos
 - **Resolução de Conflitos**: Mediação construtiva com foco em soluções
 
-## 🎯 Resolução de Problemas Complexos
+### 🎯 Resolução de Problemas Complexos
 - **Abordagem Estruturada**: Aplicação de frameworks como 5 Porquês e PDCA
 - **Pensamento Crítico**: Avaliação de múltiplas perspectivas
 - **Criatividade Aplicada**: Soluções inovadoras para desafios técnicos
 - **Gestão de Riscos**: Identificação proativa de obstáculos
 
-## 💬 Comunicação & Influência
+### 💬 Comunicação & Influência
 - **Comunicação Técnica**: Tradução de conceitos complexos para linguagem acessível
 - **Apresentação Executiva**: Dashboards e relatórios para decisores estratégicos
 - **Documentação Clara**: Manuais e tutoriais compreensíveis
 - **Escrita Profissional**: Emails, propostas e relatórios com precisão
 
-## 👨‍💼 Liderança & Gestão
+### 👨‍💼 Liderança & Gestão
 - **Gestão de Equipes Multidisciplinares**: Coordenação de diferentes backgrounds
 - **Delegação Efetiva**: Distribuição de tarefas conforme competências
 - **Mentoria & Desenvolvimento**: Capacitação de talentos
 - **Gestão de Projetos**: Planejamento e monitoramento de iniciativas
 
-## 🔄 Adaptabilidade & Aprendizado Contínuo
+### 🔄 Adaptabilidade & Aprendizado Contínuo
 - **Agilidade Tecnológica**: Rápida assimilação de novas ferramentas
 - **Mindset de Crescimento**: Busca constante por atualização
 - **Resiliência a Mudanças**: Adaptação a novos contextos
 - **Autoaprendizagem**: Proatividade no estudo de tecnologias
 
-🏆 Diferenciais Competitivos
+### 🏆 Diferenciais Competitivos
 
 | Competência | Nível | Aplicação Prática |
 |------------|-------|-------------------|
@@ -265,15 +216,43 @@ Certificações
 | **Comunicação** | ⭐⭐⭐⭐ | Interface entre áreas técnicas e de negócio |
 | **Adaptabilidade** | ⭐⭐⭐⭐⭐ | Transição para Cloud Computing AWS |
 
-"Competências são como músculos: desenvolvem-se com prática consistente e desafios progressivos."
+> "Competências são como músculos: desenvolvem-se com prática consistente e desafios progressivos."
 
-📫 Vamos Conectar?
+## 📫 Vamos Conectar?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuelmaiapro)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samuelmaiapro)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smaia2@gmail.com)
 
+---
 
-⭐ "Dados não são apenas números; são histórias esperando para serem contadas e problemas esperando para serem resolvidos."
+> ⭐ "Dados não são apenas números; são histórias esperando para serem contadas e problemas esperando para serem resolvidos."
+> 
+> 🔗 **Visite meus projetos para ver essas histórias em ação!**
+```
 
-🔗 Visite meus projetos para ver essas histórias em ação!
+## 🚀 **PRINCIPAIS CORREÇÕES FEITAS:**
+
+1. **Removi indentação** das seções de habilidades e experiências
+2. **Converti para listas Markdown** (`- item`) em vez de espaços
+3. **Adicionei cabeçalhos** (`###`) para melhor organização
+4. **Corrigi a hierarquia** com níveis consistentes de títulos
+5. **Formatado corretamente** as citações e tabelas
+
+## 📋 **PARA APLICAR NO PyCharm:**
+
+1. **Delete todo o conteúdo** atual do README.md
+2. **Copie e cole** o código corrigido acima
+3. **Salve** (Ctrl+S)
+4. **Commit e push:**
+```bash
+git add README.md
+git commit -m "Corrige formatação do README.md"
+git push origin main
+```
+
+## 🔍 **PARA VERIFICAR:**
+Após o push, acesse: https://github.com/samuelmaiapro  
+O layout deve aparecer **organizado e profissional** agora!
+
+**O problema era que você estava usando espaços/tabs para criar listas, mas no Markdown precisa usar `-` ou `*` seguido de espaço!** ✅
