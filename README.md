@@ -1,4 +1,4 @@
-# 👨‍💻 Samuel Maia | Analista de Dados & Especialista Cloud AWS
+# 👨‍💻 Samuel Maia | Analista de Dados | Cloud AWS | Transição para Engenharia de Dados
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -10,7 +10,7 @@
 
 ## 📌 Sobre Mim
 
-Analista de Dados com formação em **Ciência de Dados** e especialização em **Cloud Computing AWS**. Tenho experiência em análise de dados, ETL, desenvolvimento de dashboards Power BI, queries SQL, automação com Python e implementação de soluções AWS. Sou apaixonado por transformar dados complexos em insights estratégicos para tomada de decisão.
+Analista de Dados com sólida experiência em ***Business Intelligence***, ***Engenharia de Dados*** e soluções ***Cloud AWS***. Especialista em ***Python***, ***SQL***, ***Power BI*** e processos ETL, atuando na automação de pipelines e infraestrutura de dados escalável. Reconhecido por entregar resultados mensuráveis, como aumento de produtividade e suporte à tomada de decisão estratégica. Focado em construir ambientes de dados robustos e inovadores, alinhados às melhores práticas do mercado e às necessidades do negócio.
 
 **📍 Localização:** Fortaleza, CE  
 **📧 E-mail:** smaia2@gmail.com  
