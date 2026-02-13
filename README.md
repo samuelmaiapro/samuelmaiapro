@@ -1,4 +1,4 @@
-# 👨‍💻 Samuel Maia | Analista de Dados | Cloud AWS | Transição para Engenharia de Dados
+# 👨‍💻 Samuel Maia | Analista de Dados | Cloud AWS | Business Intelligence
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
