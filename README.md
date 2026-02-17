@@ -1,233 +1,117 @@
-# 👨‍💻 Samuel Maia | Analista de Dados | Cloud AWS | Transição para Engenharia de Dados
+# 👋 Olá, eu sou Samuel Maia
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-## 📌 Sobre Mim
-
-Analista de Dados com sólida experiência em ***Business Intelligence***, ***Engenharia de Dados*** e soluções ***Cloud AWS***. Especialista em ***Python***, ***SQL***, ***Power BI*** e processos ETL, atuando na automação de pipelines e infraestrutura de dados escalável. Reconhecido por entregar resultados mensuráveis, como aumento de produtividade e suporte à tomada de decisão estratégica. Focado em construir ambientes de dados robustos e inovadores, alinhados às melhores práticas do mercado e às necessidades do negócio.
-
-**📍 Localização:** Fortaleza, CE  
-**📧 E-mail:** smaia2@gmail.com  
-**📱 Telefone:** (85) 98409-6353  
-**🔗 LinkedIn:** [linkedin.com/in/samuelmaiapro](https://linkedin.com/in/samuelmaiapro)  
-**🎯 PcD:** Hemiparesia direita - sem impacto em funções técnicas, total independência, laudo disponível (CID T90.5)
-
-## 🚀 Projetos em Destaque
-
-### 📈 [Análise de Vendas com Python](https://github.com/samuelmaiapro/analise-vendas-python)
-
-**Objetivo:** Sistema completo de análise de dados de vendas para identificar tendências, métricas de performance e insights estratégicos.
-
-**Tecnologias:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-
-**Principais Funcionalidades:**
-- 📊 Análise exploratória de dados (EDA)
-- 📈 Visualização de tendências de vendas
-- 🔍 Identificação de produtos mais lucrativos
-- 📅 Análise temporal e sazonalidade
-- 🎯 Cálculo de KPIs de performance
-
-**Exemplo de Código:**
-
-```python
-import pandas as pd
-import matplotlib.pyplot as plt
-
-class AnalisadorVendas:
-    def __init__(self, caminho_dados):
-        self.df = pd.read_csv(caminho_dados)
-        self.df['data'] = pd.to_datetime(self.df['data'])
-
-    def analise_mensal(self):
-        """Analisa vendas por mês"""
-        df_mensal = self.df.groupby(self.df['data'].dt.to_period('M')).agg({
-            'valor': 'sum',
-            'quantidade': 'sum',
-            'cliente_id': 'nunique'
-        })
-        return df_mensal
-
-    def gerar_relatorio(self):
-        """Gera relatório completo de vendas"""
-        relatorio = {
-            'total_vendas': self.df['valor'].sum(),
-            'media_diaria': self.df.groupby('data')['valor'].mean().mean(),
-            'produto_mais_vendido': self.df['produto'].mode()[0],
-            'crescimento_mensal': self.calcular_crescimento()
-        }
-        return relatorio
-
-    def calcular_crescimento(self):
-        pass
-```
-
-📁 **Estrutura do Projeto:**
-```
-analise-vendas-python/
-├── data/              # Arquivos de dados
-├── notebooks/         # Jupyter notebooks
-├── src/               # Código fonte Python
-├── outputs/           # Resultados e gráficos
-└── README.md          # Documentação
-```
-
-🔗 **[Acesse o projeto completo aqui](https://github.com/samuelmaiapro/analise-vendas-python)**
-
-## 🛠️ Habilidades Técnicas
-
-### ☁️ Cloud Computing & Infraestrutura
-- **AWS**: EC2, S3, Lambda, RDS, CloudFormation
-- **Linux**: Administração de servidores, shell scripting
-- **Segurança**: OPNsense, Pfsense, Zabbix, configuração de firewalls
-- **Controle de Versão**: Git, Subversion
-
-### 📊 Análise de Dados & BI
-- **Power BI**: Dashboards interativos, DAX, Power Query
-- **Excel Avançado**: VBA, Power Pivot, fórmulas complexas
-- **Visualização**: Matplotlib, Seaborn, Plotly
-- **Estatística**: Estatística descritiva e preditiva
-
-### 💻 Programação & Automação
-- **Python**: Pandas, NumPy, Scikit-learn, automação
-- **SQL**: Consultas avançadas, otimização, stored procedures
-- **Web**: PHP, Ruby, Apache configuration
-- **ETL/ELT**: Pipeline de dados, transformações
-
-### 🗄️ Bancos de Dados
-- **Relacionais**: MySQL, MariaDB, Informix
-- **Conceitos**: Normalização, indexação, transações
-
-### 📋 Metodologias
-- **Ágil**: Scrum, Kanban, sprints
-- **Design Thinking**: Solução criativa de problemas
-- **RPA**: Automação de processos repetitivos
-
-## 💼 Experiência Profissional
-
-### 📊 Analista de Dados | ¡9 Life (Jun 2015 - Jan 2019)
-- Liderança de equipe com 100+ consultores comerciais
-- Implementação de sistema de metas baseado em análise de dados
-- Aumento de 15-20% na produtividade através de dashboards
-- Expansão da base de clientes com análise de mercado
-
-### 🔧 Supervisor de TI | Instituto de Tecnologia José Rocha (Mai 2007 - Mai 2009)
-- Administração de infraestrutura Linux com Apache
-- Gerenciamento de bancos de dados MySQL/Informix
-- Automação de 70% das rotinas com scripts PHP/Ruby
-- Implementação de soluções de segurança e monitoramento
-
-### 🏦 Assistente de Atendimento | Banco Santander (Set 2009 - Abr 2013)
-- Análise de perfil de clientes pessoa física e jurídica
-- Cruzamento de dados para propostas personalizadas
-- Reconhecimento por excelência no atendimento ao cliente
-
-## 🎓 Formação & Certificações
-
-### 🏫 Formação Acadêmica
-- **Ciência de Dados** | Gran Faculdade (Cursando - 2026)
-- **AWS Cloud Practitioner/Solutions Architect** | Escola da Nuvem (Cursando - 2026)
-- **Inovação e Transformação Digital** | Gran Faculdade (Cursando - 2026)
-- **Administração de Empresas** | FACULDADE FAEL (Concluído - 2024)
-
-### 📜 Certificações
-- **AWS Certified Cloud Practitioner** (Em processo - 2026)
-- **Power BI – Do Básico ao Profissional** | Udemy (2025)
-- **Python para Análise de Dados** | Udemy (2025)
-- **SQL para Data Science** | Coursera (2025)
-
-## 📈 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuelmaiapro&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Samuel's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelmaiapro&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samuelmaiapro&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=samuelmaiapro&color=blueviolet&style=flat-square" alt="Visualizações do perfil" />
-  <a href="https://github.com/samuelmaiapro?tab=followers">
-    <img src="https://img.shields.io/github/followers/samuelmaiapro?label=Seguidores&style=flat-square&color=green" alt="GitHub followers" />
-  </a>
-  <img src="https://img.shields.io/github/stars/samuelmaiapro?label=Estrelas&style=flat-square&color=yellow" alt="Total Stars" />
-</div>
-
-## 🌐 Idiomas
-- **Português**: Nativo
-- **Inglês**: B2 (Intermediário) - Técnico e comunicação
-- **Espanhol**: B1 (Pré-Intermediário)
-
-## 💪 Competências & Habilidades Profissionais
-
-### 🔍 Pensamento Analítico & Técnico
-- **Análise de Dados Estratégica**: Transformação de dados complexos em insights acionáveis
-- **Diagnóstico de Problemas**: Identificação de padrões e oportunidades com abordagem analítica
-- **Raciocínio Quantitativo**: Aplicação de estatística em cenários empresariais
-- **Storytelling com Dados**: Comunicação técnica para públicos não-técnicos
-
-### 🤝 Colaboração & Trabalho em Equipe
-- **Sinergia Multidisciplinar**: Integração com equipes de negócio, TI e stakeholders
-- **Metodologias Ágeis**: Experiência em Scrum e Kanban
-- **Compartilhamento de Conhecimento**: Mentoria e documentação de processos
-- **Resolução de Conflitos**: Mediação construtiva com foco em soluções
-
-### 🎯 Resolução de Problemas Complexos
-- **Abordagem Estruturada**: Aplicação de frameworks como 5 Porquês e PDCA
-- **Pensamento Crítico**: Avaliação de múltiplas perspectivas
-- **Criatividade Aplicada**: Soluções inovadoras para desafios técnicos
-- **Gestão de Riscos**: Identificação proativa de obstáculos
-
-### 💬 Comunicação & Influência
-- **Comunicação Técnica**: Tradução de conceitos complexos para linguagem acessível
-- **Apresentação Executiva**: Dashboards e relatórios para decisores estratégicos
-- **Documentação Clara**: Manuais e tutoriais compreensíveis
-- **Escrita Profissional**: Emails, propostas e relatórios com precisão
-
-### 👨‍💼 Liderança & Gestão
-- **Gestão de Equipes Multidisciplinares**: Coordenação de diferentes backgrounds
-- **Delegação Efetiva**: Distribuição de tarefas conforme competências
-- **Mentoria & Desenvolvimento**: Capacitação de talentos
-- **Gestão de Projetos**: Planejamento e monitoramento de iniciativas
-
-### 🔄 Adaptabilidade & Aprendizado Contínuo
-- **Agilidade Tecnológica**: Rápida assimilação de novas ferramentas
-- **Mindset de Crescimento**: Busca constante por atualização
-- **Resiliência a Mudanças**: Adaptação a novos contextos
-- **Autoaprendizagem**: Proatividade no estudo de tecnologias
-
-### 🏆 Diferenciais Competitivos
-
-| Competência | Nível | Aplicação Prática |
-|------------|-------|-------------------|
-| **Análise de Dados** | ⭐⭐⭐⭐⭐ | Aumento de 15-20% em produtividade |
-| **Liderança** | ⭐⭐⭐⭐ | Gestão de equipe com 100+ consultores |
-| **Resolução de Problemas** | ⭐⭐⭐⭐⭐ | Automação de 70% das rotinas |
-| **Comunicação** | ⭐⭐⭐⭐ | Interface entre áreas técnicas e de negócio |
-| **Adaptabilidade** | ⭐⭐⭐⭐⭐ | Transição para Cloud Computing AWS |
-
-> "Competências são como músculos: desenvolvem-se com prática consistente e desafios progressivos."
-
-## 📫 Vamos Conectar?
+**Analista de Dados Sênior | Especialista em Business Intelligence | Arquiteto de Soluções AWS (em formação)**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuelmaiapro)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smaia2@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samuelmaiapro)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smaia2@gmail.com)
+
+📍 **Localização:** Fortaleza, Ceará | 📞 **Contato:** (85) 98409-6353  
+♿ **PcD:** Hemiparesia direita (CID T90.5) – Total independência, sem impacto técnico ou operacional.
 
 ---
 
-> ⭐ "Dados não são apenas números; são histórias esperando para serem contadas e problemas esperando para serem resolvidos."
-> 
-> 🔗 **Visite meus projetos para ver essas histórias em ação!** 
+### 🚀 Sobre Mim
+
+Profissional Sênior com mais de uma década de experiência unindo **visão de negócios (Administração)** e **expertise técnica (Ciência de Dados)**. Minha atuação é focada em transformar dados brutos em decisões estratégicas de alto impacto, com um histórico comprovado de aumento de produtividade e otimização de processos.
+
+Atualmente, estou em uma jornada de aperfeiçoamento contínuo em **Arquitetura AWS e Engenharia de Dados** para construir soluções de ponta a ponta, escaláveis e inovadoras na nuvem.
+
+**Meu objetivo é simples: contar a história dos seus dados e resolver problemas de negócio com tecnologia.**
+
+---
+
+### ⚡ Impacto em Números
+
+*   **+15-20%** de aumento na produtividade de uma equipe comercial com mais de 100 consultores através de dashboards e um sistema de metas data-driven.
+*   **-70%** de redução no tempo operacional de processos críticos de infraestrutura e administrativos por meio de automação inteligente.
+*   **Expansão da base de clientes** utilizando análise de comportamento e cruzamento de dados cadastrais para identificar novas oportunidades.
+
+---
+
+### 🛠️ Stack Tecnológica
+
+Aqui estão as principais ferramentas que utilizo para gerar valor:
+
+**☁️ Cloud & Infraestrutura**
+`AWS (S3, Lambda, Glue, Redshift - em formação)` | `Linux` | `Git` | `Subversion` | `OPNsense`
+
+**📊 BI & Visualização**
+`Power BI (DAX, Power Query)` | `Excel Avançado (VBA, Power Pivot)` | `Storytelling com Dados` | `Matplotlib` | `Seaborn`
+
+**💻 Programação & Dados**
+`Python (Pandas, NumPy, Análise Exploratória)` | `SQL (MySQL, PostgreSQL, MariaDB, Informix)` | `ETL` | `PHP` | `Ruby`
+
+**📋 Gestão & Metodologias**
+`ERP` | `CRM` | `SAP` | `Scrum` | `Kanban` | `Design Thinking` | `RPA`
+
+---
+
+### 💼 Experiência Relevante
+
+**📊 Analista de Dados Sênior** | i9 Life *(Jun 2015 – Jan 2019)*
+*   Liderança estratégica da equipe comercial (100+ consultores), atuando como referência técnica e analítica.
+*   Desenvolvimento de dashboards interativos em Power BI, consolidando KPIs e permitindo o acompanhamento em tempo real da performance.
+*   **Resultado Chave:** Criação e implementação de um sistema de metas baseado em análise histórica e projeções, gerando um aumento de 15% a 20% na produtividade geral da equipe.
+
+**🏦 Assistente de Atendimento (Análise de Perfil e Negócios)** | Banco Santander *(Set 2009 – Abr 2013)*
+*   Consultoria e análise de perfil de clientes PF/PJ através do cruzamento de dados cadastrais, comportamentais e financeiros.
+*   **Resultado Chave:** Estruturação de propostas personalizadas que resultaram em maior fidelização e crescimento da carteira de clientes.
+
+**🔧 Supervisor Administrativo de TI** | Instituto de Tecnologia José Rocha *(Mai 2007 – Mai 2009)*
+*   Gestão de servidores Linux e administração de bancos de dados MySQL/Informix.
+*   **Resultado Chave:** Automação de rotinas críticas com scripts em PHP e Ruby, alcançando uma redução de 70% no tempo de execução dos processos.
+
+---
+
+### 📚 Formação e Certificações
+
+*   **Pós-graduação em Ciência de Dados** | Gran Faculdade *(Cursando: 2025 - 2026)*
+*   **Pós-graduação em Inovação e Transformação Digital** | Gran Faculdade *(Cursando: 2025 - 2026)*
+*   **Bacharelado em Administração de Empresas** | FACULDADE FAEL *(Concluído: 2021 - 2024)*
+*   **AWS Certified Cloud Practitioner / Solutions Architect** | Escola da Nuvem *(Cursando: 2026)*
+
+**Certificações Complementares:**
+*   Power BI – Do Básico ao Profissional (Udemy - 2025)
+*   Python para Análise de Dados (Udemy - 2025)
+*   SQL para Data Science (Coursera - 2025)
+
+---
+
+### 🌟 Competências Comportamentais (Soft Skills)
+
+*   **Liderança Inspiradora:** Gestão e mentoria de equipes multidisciplinares, fomentando uma cultura orientada a dados.
+*   **Pensamento Crítico & Estratégico:** Diagnóstico de problemas complexos e tradução de necessidades de negócio em soluções analíticas.
+*   **Comunicação Eficaz:** Habilidade comprovada para conectar o mundo técnico e o de negócios, apresentando insights de forma clara para stakeholders.
+*   **Adaptabilidade:** Rápida assimilação de novas tecnologias (como AWS) e resiliência em ambientes dinâmicos.
+
+---
+
+### 📊 GitHub em Ação
+
+Aqui você encontra alguns dos meus projetos práticos, onde aplico conceitos de análise de dados, Python e BI.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelmaiapro&repo=analise-vendas-python&theme=dark)](https://github.com/samuelmaiapro/analise-vendas-python)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelmaiapro&repo=portfolio-analista-dados&theme=dark)](https://github.com/samuelmaiapro/portfolio-analista-dados)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelmaiapro&layout=compact&theme=dark)](https://github.com/samuelmaiapro)
+
+---
+
+### 🌐 Idiomas
+
+*   **Português:** Nativo
+*   **Inglês:** Nível B2 (Intermediário) - Leitura técnica, compreensão de documentação e comunicação profissional.
+*   **Espanhol:** Nível B1 (Básico/Pré-intermediário)
+
+---
+
+### 📫 Vamos Conversar?
+
+Estou aberto a novos desafios e oportunidades em projetos nacionais, seja no modelo **remoto, híbrido ou presencial em Fortaleza/CE**.
+
+⭐ **"Dados são mais que números: são a matéria-prima para histórias de sucesso e decisões estratégicas."**
+
+**Entre em contato!**
+[LinkedIn](https://linkedin.com/in/samuelmaiapro) | [E-mail](mailto:smaia2@gmail.com)
 ```
