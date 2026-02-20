@@ -98,7 +98,7 @@ Aqui estão alguns dos meus principais projetos, onde aplico na prática minhas 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samuelmaiapro&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samuelmaiapro&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" width="95%"/>
 </div>
 
 ---
