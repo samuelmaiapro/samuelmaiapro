@@ -91,7 +91,7 @@ Aqui estão alguns dos meus principais projetos, onde aplico na prática minhas 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/samuelmaiapro">
+  <a href="https://github.com/samuelmaia-data-analyst">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuelmaiapro&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelmaiapro&layout=compact&langs_count=7&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
   </a>
